@@ -1,0 +1,25 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+article{
+  background-color: rgb(255, 81, 47);
+}
+header{
+  background-color: rgb(255, 81, 47);
+  color: white;
+}
+section{
+  color: white;
+}
+.ExcitingTopic{
+  color: rgb(80, 50, 38);
+}
+.ExcitingTopic p{
+  color: rgb(150, 120, 120);
+}
+footer p{
+  color: rgb(150, 120, 120);
+}
+h3 {
+  color: white;
+}
