@@ -1,0 +1,120 @@
+a{
+  text-decoration: none;
+}
+nav{
+  padding-top: 20px;
+  padding-left: 15px;
+}
+.shoelogo{
+  width: 4%;
+}
+nav p{
+  color: rgb(235, 99, 70);
+  margin-right: 10px;
+  font-size: 14px;
+}
+nav a{
+  color: rgb(255, 81, 47);
+}
+.active{
+  color: rgb(177, 41, 14);
+  padding-bottom: 5px;
+  border-bottom: 3px solid rgb(251, 194, 195);
+}
+.faded{
+  color: rgb(255, 148, 149);
+}
+body{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  margin: 0;
+}
+article{
+  background-color: rgb(255, 81, 47);
+}
+header{
+  background-color: rgb(255, 81, 47);
+  color: white;
+  padding-left: 300px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.BackToAllShoes{
+  color: white;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.ChuckTaylor{
+  width: 80%;
+  padding-bottom: 20px;
+}
+.springsummer{
+  color: rgb(147, 61, 42);
+  font-size: 14px;
+}
+section{
+  color: white;
+}
+.quicksneakersdescription{
+  margin-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 2px dashed rgb(147, 61, 42);
+  border-bottom: 2px dashed rgb(147, 61, 42);
+}
+.button{
+  border-radius: 5px;
+  background-color: white;
+  color: rgb(255, 81, 47);
+  text-transform: uppercase;
+  border: 0;
+  height: 50px;
+  width: 120px;
+  font-size: 16px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.price{
+  color: white;
+  font-size: 22px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.dollarzero{
+  color: white;
+}
+.productdetails{
+  padding-left: 200px;
+  border-bottom: solid 2px rgb(251, 194, 195);
+  margin: 0px;
+}
+.excitingtopic{
+  padding-left: 200px;
+  border-bottom: 2px;
+}
+.excitingtopic h2{
+  color: rgb(80, 50, 38);
+}
+.excitingtopic p{
+  color: rgb(150, 120, 120);
+}
+.ShopRecommended{
+  color: rgb(80, 50, 38);
+  background-color: rgb(255, 238, 235);
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+article{
+  padding-top: 50px;
+  padding-left: 300px;
+  padding-bottom: 30px;
+}
+footer{
+  padding-left: 10px;
+}
+footer p{
+  color: rgb(150, 120, 120);
+}
+h3 {
+  color: white;
+}
