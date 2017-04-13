@@ -1,0 +1,228 @@
+a{
+  text-decoration: none;
+  color: rgb(255, 81, 47);
+}
+nav{
+  padding-left: 20px;
+}
+span{
+  vertical-align: super;
+  font-size: 12px;
+}
+.shoelogo{
+  padding-right: 5px;
+  width: 10%;
+}
+ul{
+  float:left;
+  padding-left: 0px;
+  padding-top: 0px;
+}
+.shoppingcart{
+  float: right;
+}
+.shoppingcart a{
+  color: rgb(239, 157, 154);
+}
+.shoppingcart span{
+  vertical-align: baseline;
+  font-size: 14px;
+}
+li{
+  display: inline-block;
+}
+nav{
+  color: rgb(235, 99, 70);
+  font-size: 14px;
+}
+nav a{
+  color: rgb(255, 81, 47);
+  padding-right: 10px;
+}
+.active{
+  color: rgb(177, 41, 14);
+  padding-bottom: 5px;
+  border-bottom: 3px solid rgb(251, 194, 195);
+  padding-right: 0px;
+  margin-right: 15px;
+}
+body{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  margin: 0;
+}
+article{
+  background-color: rgb(255, 81, 47);
+}
+header{
+  clear: both;
+  overflow: auto;
+  background: #de2673; /* Old browsers */
+  background: -moz-linear-gradient(left, #de2673 0%, #f03e4e 50%, #ff5130 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, #de2673 0%,#f03e4e 50%,#ff5130 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, #de2673 0%,#f03e4e 50%,#ff5130 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+header section{
+  float: left;
+  width: 40%;
+  line-height: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.quicksneakerssection{
+  float: right;
+  width: 40%;
+}
+.quicksneakerstitle{
+  font-size: 40px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.backtoallshoes{
+  color: white;
+  text-transform: uppercase;
+  font-size: 14px;
+  margin-left: 200px;
+}
+.chucktaylor{
+  width: 100%;
+  padding-bottom: 20px;
+  padding-left: 180px;
+  margin-right: 10px;
+}
+.springsummer{
+  color: rgb(147, 61, 42);
+  font-size: 14px;
+  margin-top: 0px;
+  padding-top: 10px;
+}
+.reviews{
+  color: rgb(141, 59, 41);
+  text-decoration: underline;
+  padding-left: 100px;
+}
+section{
+  color: white;
+}
+.quicksneakersdescription{
+  margin-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 2px dashed rgb(217, 57, 68);
+  border-bottom: 2px dashed rgb(217, 57, 68);
+}
+.button{
+  border-radius: 5px;
+  background-color: white;
+  color: rgb(255, 81, 47);
+  text-transform: uppercase;
+  border: 2px solid white;
+  height: 50px;
+  font-size: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+  outline: none;
+}
+.button:hover{
+  background: none;
+  color: white;
+}
+.price{
+  color: white;
+  font-size: 22px;
+  padding-left: 2px;
+  padding-right: 2px;
+  vertical-align: baseline;
+}
+.zero{
+  margin-right: 20px;
+}
+.productdetails {
+  border-bottom: solid 1px rgb(251, 194, 195);
+  margin-top: 50px;
+  margin-left: 180px;
+  margin-right: 180px;
+  padding-bottom: 1px;
+  overflow: auto;
+  clear: both;
+}
+.productdetails a{
+  padding-right: 0px;
+}
+.reviewsstars{
+  color: rgb(239, 157, 154);
+  float: right;
+}
+.excitingtopic{
+  float: right;
+  margin-top: 20px;
+  margin-right: 70px;
+  padding-left: 50px;
+  margin-bottom: 100px;
+}
+.excitingtopic h2{
+  color: rgb(80, 50, 38);
+}
+.excitingtopic p{
+  color: rgb(150, 120, 120);
+}
+.excitingtopic b{
+  color: rgb(80, 50, 38);
+}
+.ShopRecommended{
+  color: rgb(80, 50, 38);
+  background-color: rgb(255, 238, 235);
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  clear: both;
+}
+article{
+  overflow: auto;
+  background: #de2673; /* Old browsers */
+  background: -moz-linear-gradient(left, #de2673 0%, #f03e4e 50%, #ff5130 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, #de2673 0%,#f03e4e 50%,#ff5130 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, #de2673 0%,#f03e4e 50%,#ff5130 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  padding-top: 50px;
+  padding-left: 225px;
+  padding-bottom: 50px;
+}
+.sneakers{
+  float: left;
+  width: 31%;
+  padding-right: 10px;
+}
+.sneakers img{
+  width: 90%;
+}
+.sneakers a{
+  color: white;
+}
+.sneakers .springsummer{
+  margin-top: -20px;
+}
+footer{
+  padding-left: 10px;
+  font-size: 14px;
+  color: rgb(150, 120, 120)
+}
+footer a{
+  padding-right: 10px;
+}
+.shipping{
+  float: right;
+  padding-right: 10px;
+}
+.underline{
+  text-decoration: underline;
+}
+.shipping a{
+  color: rgb(150, 120, 120);
+}
+h3 {
+  color: white;
+  display: inline-block;
+  padding-right: 10px;
+}
