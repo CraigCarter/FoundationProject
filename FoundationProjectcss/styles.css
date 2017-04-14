@@ -103,9 +103,6 @@ header section{
   text-decoration: underline;
   padding-left: 100px;
 }
-section{
-  color: white;
-}
 .quicksneakersdescription{
   margin-right: 50px;
   padding-top: 10px;
@@ -139,25 +136,29 @@ section{
 .zero{
   margin-right: 20px;
 }
-.productdetails {
-  border-bottom: solid 1px rgb(251, 194, 195);
+.productbar {
+  border-bottom: solid 1.5px rgb(251, 194, 195);
   margin-top: 50px;
   margin-left: 180px;
   margin-right: 180px;
-  padding-bottom: 1px;
+  padding-bottom: 0px;
   overflow: auto;
   clear: both;
 }
-.productdetails a{
+.productbar a{
   padding-right: 0px;
+}
+.sizefitdescription{
+  padding-left: 15px;
 }
 .reviewsstars{
   color: rgb(239, 157, 154);
   float: right;
 }
-.excitingtopic{
-  float: right;
+.excitingtopic, .sizefitdescription, .customersaresaying{
+  float: left;
   margin-top: 20px;
+  margin-left: 130px;
   margin-right: 70px;
   padding-left: 50px;
   margin-bottom: 100px;
@@ -170,6 +171,9 @@ section{
 }
 .excitingtopic b{
   color: rgb(80, 50, 38);
+}
+.sizefitdescription, .customersaresaying{
+  display: none;
 }
 .ShopRecommended{
   color: rgb(80, 50, 38);
